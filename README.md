@@ -18,3 +18,4 @@ Canva
 🤖 Midjourney Para gerar capas
 🤖 Canva para tratar aúdio e adicionar sons de fundo
 
+Vídeo final no Instagram : https://www.instagram.com/reel/Cu0d8kLt652/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
