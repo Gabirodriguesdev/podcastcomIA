@@ -14,7 +14,7 @@ Canva
 
 ✨ Como foi feito ?
 🤖 Roteiro gerado via chatgpt
-🤖 Audio gerado pela elevenLabs
+🤖 Audio gerado pela elevenLabs 
 🤖 Midjourney Para gerar capas
 🤖 Canva para tratar aúdio e adicionar sons de fundo
 
